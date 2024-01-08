@@ -3,6 +3,10 @@ body {
     color: #fff;
 }
 
+#welcome {
+    font-family: sans-serif;
+}
+
 #title {
     text-align: center;
     font-weight: bold;
