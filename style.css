@@ -29,3 +29,8 @@ body {
     color: red;
     font-size: 20px;
 }
+
+::selection {
+    color: black;
+    background-color: gold;
+}
