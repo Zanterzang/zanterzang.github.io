@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	 <link rel="stylesheet" href="style.css">
+    <title>Welcome To ZanSite</title>
+</head>
+<body>
+    <script src="script.js"></script>
+	<br>
+    <div id="welcome">Hi, my name's Zan(only on the internet), and welcome to,</div> <br>
+    <div id="title"><span id=Z>Zan</span>Site</div><br>
+    <div Id="noteoffunny"><i>The only site providing useless information about a random collection of carbon molecules and water addicted to the internet — since 2024!</i></div><br>
+    <div id=noteofinform>NOTE: This site is very incomplete and will be updated later. There is a possibility that this note is never removed.
+</body>
+</html>

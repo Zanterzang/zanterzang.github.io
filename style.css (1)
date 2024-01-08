@@ -1,0 +1,26 @@
+body {
+    background-color: #222;
+    color: #fff;
+}
+
+#title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 65px;
+    padding: 0 auto;
+}
+
+#Z {
+    color: #222;
+    background-color: #fff;
+}
+
+#noteoffunny {
+    text-align: center;
+    font-size: 11.5px;
+}
+
+#noteofinform {
+    color: red;
+    font-size: 20px;
+}
