@@ -1,38 +1,44 @@
 body {
     background-color: #222;
     color: #fff;
+    font-size: 2vh;
 }
 
-#welcome {
-    font-family: sans-serif;
+a {
+    text-decoration: none;
+    color: #0088ff;
+    font-weight: bold;
 }
 
 #title {
     text-align: center;
     font-weight: bold;
-    font-size: 65px;
+    font-size: 10vh;
     padding: 0 auto;
-    font-family: sans-serif;
 }
 
 #Z {
     color: #222;
     background-color: #fff;
-    text-decoration: none;
+    border-radius: 10px;
     display: inline;
 }
 
 #noteoffunny {
     text-align: center;
-    font-size: 11.5px;
+    font-size: 1.5vh;
 }
 
 #noteofinform {
     color: red;
-    font-size: 20px;
 }
 
 ::selection {
+    background-color: white;
     color: black;
+}
+
+#Z::selection {
     background-color: gold;
+    color: white;
 }
